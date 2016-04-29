@@ -27,7 +27,7 @@ PaginatePath = "/"
     colorscheme = "white"
 
     # Tagline; HTML accepted here. Keep it concise.
-    tagline = "by Trevor Huey"
+    tagline = "Trevor Huey"
 
     # Footer; Markdown accepted here.
     footer = "Copyright 2016 &copy; Trevor Huey"
