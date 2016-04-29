@@ -43,10 +43,10 @@ PaginatePath = "/"
     # Social links, must be full URLs (e.g. https://github.com/CrimsonRay/).
     # Remove, comment, or leave blank any field to leave them out.
     # email = "mailto:your-email"
-    github = "https://github.com/thuey"
+    # github = "https://github.com/thuey"
     # bitbucket = "url-to-your-bitbucket"
     twitter = "https://twitter.com/trevor_huey"
-    stackoverflow = "http://stackoverflow.com/users/1281231/thuey"
+    # stackoverflow = "http://stackoverflow.com/users/1281231/thuey"
     linkedin = "https://www.linkedin.com/in/trevorhuey"
     # facebook = "url-to-your-facebook"
 
