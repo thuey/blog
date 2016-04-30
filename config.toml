@@ -2,7 +2,7 @@
 # https://github.com/CrimsonRay/slender
 
 baseurl = "http://trevorhuey.com"
-title = "Like I'm Five"
+title = "No Surprises"
 languageCode = "en-US"
 MetaDataFormat = "toml"
 theme = "slender"
